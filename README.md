@@ -1,7 +1,7 @@
 MAKED
 
-Model
+Model	formula_formulator.sh	
 Attack
-Knowledge
+Knowledge	arXiv_catcher.sh
 Experience
-Data
+Data	data_winch.sh
